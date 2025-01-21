@@ -10,19 +10,19 @@ Responsive Design: The website adapts to different screen sizes, ensuring a smoo
 Job Listings: Employers can post job listings, and job seekers can browse and apply for jobs.
 
 ## Technologies Used ##
-###Frontend: ###
+Frontend: 
 
 JavaScript
 React.js
 HTML
 CSS (Styled with animations)
 
-###Backend: ###
+Backend:
 
 Node.js
 Express.js
 
-###Database: ###
+Database: 
 
 MongoDB
 Cloud Storage:
